@@ -8,7 +8,7 @@ The objective is to develop a predictive classification model to identify client
 ## Key Questions
 - Analyze and build a model to identify potential loan defaulters.
 - Identify key factors influencing loan repayment behavior.
-- Undestand the profile of clients likely to default.
+- Understand the profile of clients likely to default.
 
 ## Conclusions
 After comparing 27 models, the Decision Tree Tuned Feature Selected emerged as the optimal solution. A cost-benefit analysis revealed potential annual savings of approximately 1.8 million dollars with its implementation.
@@ -26,6 +26,7 @@ The decision tree model's high recall for identifying loan default risk indicate
 - Comparison of Various Techniques
 - Cost-Benefit Analysis and Solution Design
 - Final Solution Design: Decision Tree Tuned Feature Selected
+  
 For detailed analysis and insights, refer to the HTML Python notebook.
 
 Note: This repository serves as a demonstration of machine learning techniques for loan default prediction. Actual implementation may require additional considerations and customization.
