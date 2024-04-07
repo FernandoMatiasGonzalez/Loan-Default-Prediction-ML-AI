@@ -1,6 +1,6 @@
 # Loan-Default-Prediction-ML-AI-Python-Notebook
 
-This repository contains an HTML and IPYNB Python notebook for predicting loan defaulters using Machine Learning and Artificial Intelligence techniques. The notebook analyzes various factors influencing loan repayment behavior and provides insights into client profiles likely to default.
+This repository contains an HTML and IPYNB notebook for predicting loan defaulters using Machine Learning and Artificial Intelligence techniques. The notebook analyzes various factors influencing loan repayment behavior and provides insights into client profiles likely to default.
 
 ## Problem Definition
 The objective is to develop a predictive classification model to identify clients at risk of loan default, aiding banks in making informed lending decisions while ensuring compliance with regulations.
@@ -8,7 +8,7 @@ The objective is to develop a predictive classification model to identify client
 ## Key Questions
 - Analyze and build a model to identify potential loan defaulters.
 - Identify key factors influencing loan repayment behavior.
-- Create a profile of clients likely to default.
+- Undestand the profile of clients likely to default.
 
 ## Conclusions
 After comparing 27 models, the Decision Tree Tuned Feature Selected emerged as the optimal solution. A cost-benefit analysis revealed potential annual savings of approximately 1.8 million dollars with its implementation.
