@@ -16,11 +16,11 @@ After comparing 27 models, the Decision Tree Tuned Feature Selected emerged as t
 ## Ready for Production
 The decision tree model's high recall for identifying loan default risk indicates readiness for production. Continuous monitoring and adjustments post-deployment are recommended to maintain effectiveness.
 
-## Potential Risks or Challenges
+## Challenges To Focus On
+- Integration with Existing Systems
 - Ensuring Privacy Compliance
 - Enhancing Customer Transparency
 - Mitigating Data Bias and Fairness
-- Integration with Existing Systems
 
 ## Actionable Insights and Solution Strategy
 - Comparison of Various Techniques
