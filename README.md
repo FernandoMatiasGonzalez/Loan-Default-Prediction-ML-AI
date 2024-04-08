@@ -1,4 +1,4 @@
-# Loan-Default-Prediction-ML-AI-Python-Notebook
+# Loan-Default-Prediction-ML-AI
 
 This repository contains an HTML and IPYNB notebook for predicting loan defaulters using Machine Learning and Artificial Intelligence techniques. The notebook analyzes various factors influencing loan repayment behavior and provides insights into client profiles likely to default.
 
