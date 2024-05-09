@@ -25,7 +25,7 @@ The decision tree model's high recall for identifying loan default risk indicate
 ## Actionable Insights and Solution Strategy
 - Comparison of Various Techniques
 - Cost-Benefit Analysis and Solution Design
-- Final Solution Design: Decision Tree Tuned Feature Selected
+- Final Solution Design: Decision Tree Tuned Feature-Selected
   
 For detailed analysis and insights, refer to the HTML Python notebook.
 
