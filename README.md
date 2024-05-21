@@ -1,6 +1,6 @@
 # Loan-Default-Prediction-ML-AI
 
-This repository contains an HTML and IPYNB notebook for predicting loan defaults using Machine Learning and Artificial Intelligence techniques, including Logistic Regression, Decision Trees, Random Forests, Boosting, LDA, QDA, SVM, and ANN.
+This repository contains an HTML and IPYNB notebook for predicting loan defaults using Machine Learning and Artificial Intelligence techniques.
 
 ## Problem Definition
 The objective is to develop a predictive classification model to identify clients at risk of loan default, aiding banks in making informed lending decisions while ensuring compliance with regulations.
@@ -11,7 +11,7 @@ The objective is to develop a predictive classification model to identify client
 - Understand the profile of clients likely to default.
 
 ## Conclusions
-After comparing 27 models, the Decision Tree Tuned Feature-Selected model emerged as the optimal solution. A cost-benefit analysis revealed potential annual savings of approximately 1.8 million dollars with its implementation.
+After comparing 27 models, the Decision Tree Tuned Feature-Selected model emerged as the optimal solution. A cost-benefit analysis revealed potential annual savings of approximately 1.8 million dollars with its implementation. The notebook develops, tunes and feature-engineer models including Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, LDA, QDA, SVM, and ANN.
 
 ## Readiness for Production
 The Decision Tree model's high recall for identifying loan default risk indicates readiness for production.
