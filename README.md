@@ -10,8 +10,10 @@ The objective is to develop a predictive classification model to identify client
 - Identify key factors influencing loan repayment behavior.
 - Understand the profile of clients likely to default.
 
-## Conclusions
-After comparing 27 models, the Decision Tree Tuned Feature-Selected model emerged as the optimal solution. A cost-benefit analysis revealed potential annual savings of approximately 1.8 million dollars with its implementation. The notebook develops, tunes and feature-engineer models including Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, LDA, QDA, SVM, and ANN.
+## Findings
+- The notebook develops, tunes, and feature-engineers models including Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, LDA, QDA, SVM, and ANN.
+- The approach focuses on maximizing recall while also comparing precision and overall model performance to optimize the cost-benefit ratio.
+- Reccommends deploying a Decision Tree Tuned Feature-Selected model, which would drive an estimated $1.8 million in annual savings. 
 
 ## Readiness for Production
 The Decision Tree model's high recall for identifying loan default risk indicates readiness for production.
