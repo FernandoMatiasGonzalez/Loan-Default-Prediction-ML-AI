@@ -6,7 +6,7 @@ This repository contains an HTML and IPYNB notebook for predicting loan defaults
 The objective is to develop a predictive classification model to identify clients at risk of loan default, aiding banks in making informed lending decisions while ensuring compliance with regulations.
 
 ## Key Questions
-- Analyze and build a model to identify potential loan defaulters.
+- Analyze and build a model to identify potential loan defaults.
 - Identify key factors influencing loan repayment behavior.
 - Understand the profile of clients likely to default.
 
@@ -14,7 +14,7 @@ The objective is to develop a predictive classification model to identify client
 After comparing 27 models, the Decision Tree Tuned Feature-Selected model emerged as the optimal solution. A cost-benefit analysis revealed potential annual savings of approximately 1.8 million dollars with its implementation.
 
 ## Readiness for Production
-The decision tree model's high recall for identifying loan default risk indicates readiness for production.
+The Decision Tree model's high recall for identifying loan default risk indicates readiness for production.
 
 ## Implementation Phase Challenges
 - Integration with Existing Systems
