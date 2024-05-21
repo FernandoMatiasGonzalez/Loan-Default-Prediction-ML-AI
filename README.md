@@ -29,6 +29,6 @@ The Decision Tree model's high recall for identifying loan default risk indicate
 - Cost-Benefit Analysis and Solution Design
 - Final Solution Design: Decision Tree Tuned Feature-Selected
   
-For detailed analysis and insights, refer to the HTML Python notebook.
+For detailed analysis and insights, refer to the Python notebook.
 
 Note: This repository serves as a demonstration of machine learning techniques for loan default prediction. Actual implementation may require customization.
