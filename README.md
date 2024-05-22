@@ -1,4 +1,4 @@
-# Loan-Default-Prediction-ML-AI (Relevant Notebook:
+# Loan-Default-Prediction-ML-AI
 
 This repository contains an HTML and IPYNB notebook for predicting loan defaults using Machine Learning and Artificial Intelligence techniques.
 
