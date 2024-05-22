@@ -16,10 +16,10 @@ Develop a predictive classification model to identify clients at risk of loan de
 - Reccommends deploying a Decision Tree Tuned Feature-Selected model, which would drive an estimated 1.8 million dollars in annual savings. 
 
 ## Implementation Phase Challenges
-- Integration with Existing Systems
-- Ensuring Privacy Compliance
-- Enhancing Customer Transparency
-- Mitigating Data Bias and Fairness
+- Integration with existing systems
+- Ensuring privacy compliance
+- Enhancing customer transparency
+- Mitigating data bias and fairness
 
 ## Actionable Insights and Solution Strategy
 - Comparison of various techniques
