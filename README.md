@@ -27,7 +27,7 @@ Develop a predictive classification model to identify clients at risk of loan de
 - Final Solution Design: Decision Tree Tuned Feature-Selected
 
 ## Readiness for Production
-The high recall of the Decision Tree model indicates readiness for production deployment
+The high recall of the Decision Tree model indicates readiness for production deployment.
 
 For detailed analysis and insights, refer to the relevant notebook.
 
