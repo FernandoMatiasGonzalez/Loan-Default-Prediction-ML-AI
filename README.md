@@ -12,7 +12,7 @@ Develop a predictive classification model to identify clients at risk of loan de
 
 ## Findings
 - The notebook develops, tunes, and feature-engineers models including Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, LDA, QDA, SVM, and ANN.
-- The approach focuses on maximizing recall while also comparing precision and overall model performance to optimize the cost-benefit ratio.
+- The approach maximizes recall while balancing precision to optimize the cost-benefit ratio.
 - Reccommends deploying a Decision Tree Tuned Feature-Selected model, which would drive an estimated 1.8 million dollars in annual savings. 
 
 ## Implementation Phase Challenges
