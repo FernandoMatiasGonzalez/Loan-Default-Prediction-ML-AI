@@ -30,6 +30,6 @@ Develop a predictive classification model to identify clients at risk of loan de
 The high recall of the Decision Tree model indicates readiness for production deployment.
 
 ## View Projects
-For detailed analysis and insights, refer to the Python notebook.
+For detailed analysis and insights, please refer to the included Python notebook.
 
 Note: This repository serves as a demonstration of machine learning techniques for loan default prediction. Actual implementation may require customization.
