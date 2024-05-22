@@ -29,6 +29,4 @@ Develop a predictive classification model to identify clients at risk of loan de
 ## Readiness for Production
 The high recall of the Decision Tree model indicates readiness for production deployment.
 
-For detailed analysis and insights, refer to the relevant notebook.
-
 Note: This repository serves as a demonstration of machine learning techniques for loan default prediction. Actual implementation may require customization.
